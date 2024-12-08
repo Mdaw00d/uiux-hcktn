@@ -13,9 +13,9 @@ export default function Header(){
         {/* Top Row: Logo and Right Links */}
         <div className="flex justify-between items-center">
           {/* Logo */}
-          <Links href="">
+          <Link href="/">
           <div className="text-2xl font-bold text-gray-800 -ml-16">Avion</div>
-          </Links>
+          </Link>
           {/* Right-Side Links */}
           <div className="flex items-center gap-x-6 text-gray-600">
            <Link href="/aboutus"> <a href="#" className="hover:text-gray-800">About us</a></Link>

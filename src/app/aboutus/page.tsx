@@ -63,8 +63,8 @@ export default function AboutUs() {
                   marginBottom: "20px",
                 }}
               >
-                Our service isn't just personal, it's actually hyper personally
-                exquisite
+               {` Our service isn't just personal, it's actually hyper personally
+                exquisite`}
               </h1>
               <p
                 style={{

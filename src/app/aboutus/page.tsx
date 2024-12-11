@@ -42,7 +42,7 @@ export default function AboutUs() {
           <div className="flex items-center justify-center bg-gray-100 h-full">
             <div className="container p-10">
               <h1 className="text-2xl font-bold text-gray-800 mb-6">
-                Our service isn't just personal, it's actually hyper personally exquisite
+                Our service is not just personal, it is actually hyper personally exquisite
               </h1>
               <p className="text-base text-gray-600 mb-6">
                 When we started Avion, the idea was simple: Make high-quality
